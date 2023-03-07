@@ -8,19 +8,20 @@ h1 {
 }
 nav{
   text-align: center;
-  margin: auto;
-  padding: 10px;
-  background-color: gray;
-}
-body{
+  background-color: yellowgo;
+  }
+/* body{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
+} */
 section{
   text-align: center;
 } 
-nav{
+.Contact, .Correspondence, .links, .Follow{
   text-align: center;
+  background-color: red;
+  float: left;
+  width: 25%;
 }
